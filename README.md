@@ -1,4 +1,4 @@
-### Hi there 👋. I'M a frontend developer.- 🌱 I’m currently learning javascript and Reactjs.
+### Hi there 👋. I'M a frontend developer using React js and Mithril js.- 🌱 I’m currently working on project using Mithril Js.
 
 <!--
 **mutmainaho/mutmainaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
